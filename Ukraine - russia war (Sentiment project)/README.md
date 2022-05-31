@@ -27,10 +27,13 @@ Importin visualisation libraries to start plotting
 Cleaning locations a little bit
 
 Plotting Location and count of people who tweeted from that location
+![3](https://user-images.githubusercontent.com/98930412/171252988-4b7518a7-5a1a-4d09-ad4c-2817d39a2a53.png)
+![2](https://user-images.githubusercontent.com/98930412/171253023-18db6ddd-4a80-4e87-acba-fa9132960c69.png)
 
 ## Select only the US language, we will be using only english language for sentiment analysis
 
 ## Plotting English language by top 10 location
+![1](https://user-images.githubusercontent.com/98930412/171252893-a061ab2c-081e-4e20-89fd-1b79f00634d7.png)
 
 ## Celect only the rows that we need for the sentiment analysis
 
@@ -49,6 +52,7 @@ Inporting regular expression to clean text
 
 ## Create wordcloud
 Removing stop words and all the words 3 or less letters only for WordCloud
+![5](https://user-images.githubusercontent.com/98930412/171252860-19568575-dbf9-48a8-b7cd-e68e82741939.png)
 
 As you can see from this WordCloud 'russia' 'dropped' 'bomb' the most used (repeated) words.
 
@@ -59,6 +63,8 @@ Geting polarity
 
 Computing negative and positive analysis
 Sentiment Plot
+![4](https://user-images.githubusercontent.com/98930412/171252842-534743fd-4443-469d-ac41-8101750aba9a.png)
+
 
 ## Concludion
 As we can see, most of the people were negative about the war.

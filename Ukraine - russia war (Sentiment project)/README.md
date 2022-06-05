@@ -1,6 +1,6 @@
 ![Trisha-Map-900x593](https://user-images.githubusercontent.com/98930412/172030492-6d0c51e5-c933-43fc-ac67-f51e27db349c.png)
 
-# Ukrain - russia war tweets sentiment
+# Ukraine - russia war tweets sentiment
 
 February 24, 2022. This date changed everything in my life. As I was finishing up my day here in the US, my parents, brother, sister, my whole family and friends back in Ukraine were woken up by explosions and missiles of russian army. No one could have imagined that russians will bomb Ukraine in 2022, right in the middle of Europe. My country is fighting hard, the war is taking away lives of brave Ukrainians who protect their land and families. My friends and family are on the battlefield now. I am doing this project to see how people around the world react to this war.     
 Please see my discovery.     

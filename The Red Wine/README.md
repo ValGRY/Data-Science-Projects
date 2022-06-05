@@ -93,4 +93,13 @@ Building a scatterplot
 ![7](https://user-images.githubusercontent.com/98930412/172064960-3009fc9f-3074-4749-8d6e-1533094f252f.png)
 
 **Making a Linear Regression model (third model): multiple linear regression**
+Creating X and y (including more columns for X)
+Create constants for X
+train_test_split()
+Creating and fitting the model 3
+Evaluate the model with .summary()
+The R-Squared score shows a big improvement 87.3%
+
+
+
 

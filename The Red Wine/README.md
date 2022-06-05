@@ -101,7 +101,19 @@ Evaluate the model with .summary()
 The R-Squared score shows a big improvement 87.3%
 Building a scatterplot
 ![8](https://user-images.githubusercontent.com/98930412/172067643-c4b65118-3569-4137-9cc8-5c83f04dbd41.png)
+Let's predict dependent variable y by using .predict()
+I am going to measure the accuracy of a regression model by defining a function to check the RMSE (Root Mean Squared Error) (finding the average difference between predictions and actual values)
+RMSE is about 0.6 which means that I am on average, about 0.6 of a unit of fixed acidity away from the correct answer.
 
+ **Making a Linear Regression model (fourth model): avoiding redundancy**
+Creating X and y (using another remaining six columns for X)
+Create constants for X
+train_test_split()
+Creating and fitting the model 4
+Evaluate the model with .summary()
+R-Squared coefficient score is 75.2%
+Reduction of R-squared score to 75.2% indicates that the removed columns were important.
 
+## Conclusions
 
-
+While our most predictively powerful model was rModel3, this model had explanatory variables that were correlated with one another, which made some redundancy. Our most elegant and economical model was rModel4 - it used just a few predictors to get a good result.

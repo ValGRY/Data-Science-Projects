@@ -33,8 +33,17 @@ Iam going to use the red wine dataset, wineQualityReds.csv. This dataset is avai
 - Which model was best?
 
 ## Sourcing and loading
-#### 1. Import relevant libraries 
-#### 2. Load the data
-#### 3. Exploring the data    
-Check out its appearance
+1. Import relevant libraries 
+2. Load the data
+3. Exploring the data    
+Check out its appearance (info, shape)
+4. Choosing a dependent variable
+**'Fixed Acidity'** looks like a good variable.
+[Acidity](https://waterhouse.ucdavis.edu/whats-in-wine/fixed-acidity) is a fundamental property of wine, imparting sourness or tartness.
+I will check the center and spread of its value.
+Best way to do it is to make histogram of it to see the center and spread of its values.
+Which variables are related interestingly to that dependent variable (Fixed Acidity)?
+Using .corr() method on wine dataset to look at all the correlations between our variables.
+
+## Cleaning, Transforming, and Visualizing
 

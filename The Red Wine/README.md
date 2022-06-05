@@ -99,6 +99,8 @@ train_test_split()
 Creating and fitting the model 3
 Evaluate the model with .summary()
 The R-Squared score shows a big improvement 87.3%
+Building a scatterplot
+![8](https://user-images.githubusercontent.com/98930412/172067643-c4b65118-3569-4137-9cc8-5c83f04dbd41.png)
 
 
 

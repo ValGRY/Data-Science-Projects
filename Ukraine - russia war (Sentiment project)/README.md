@@ -67,7 +67,9 @@ Sentiment Plot
 
 
 ## Concludion
-As we can see, most of the people were negative about the war.
+Ukraine russia war is the biggest war that is taking place in the center of Europe after WW2. With the internet working all over the world, media streaming the news right from the war zone, it was important to discover what kind of reaction are we seeing from the public all over the world. 
+We found out that english speaking people ( in particular in the US) are the most engaged in this conversation. Because of the extraordinary bravery of Ukrainian people we see a lot of positive comments on twitter about the war, but as expected during the war - the leading is a negative sentiment in the conversation. 
+
 For the further research will be interesting to know how sentiment changes over time.
 
 This or similar approach can be useful for business to get reaction on certain product or service from customer reviews.

@@ -2,9 +2,9 @@
 
 # Ukrain - russia war tweets sentiment
 
-I am originally from Ukraine, beautiful country with a lot of nice people
-We were living peaceful until russia attacked us.
-Now the whole world know what is going on in Ukraine right now - full scale russian invasion!
+February 24, 2022. This date changed everything in my life. As I was finishing up my day here in the US, my par
+ents, brother, sister, my whole family and friends back in Ukraine were woken up by explosions and missiles of russian army. No one could have imagined that russians will bomb Ukraine in 2022, right in the middle of Europe. My country is fighting hard, the war is taking away lives of brave Ukrainians who protect their land and families. My friends and family are on the battlefield now. I am doing this project to see how people around the world react to this war.     
+Please see my discovery.     
 I am going to get sentiment from Twitter to see people reaction on russian war with Ukraine.
 
 
@@ -65,10 +65,11 @@ As you can see from this WordCloud 'russia' 'dropped' 'bomb' the most used (repe
 2. Getting polarity
 3. Computing negative and positive analysis
 4. Sentiment Plot
+
 ![4](https://user-images.githubusercontent.com/98930412/171252842-534743fd-4443-469d-ac41-8101750aba9a.png)
 
 
-## Takeaways from this Ukrain - russia war tweets sentiment analysis
+## Takeaways from this Ukraine - russia war tweets sentiment analysis
 Ukraine russia war is the biggest war that is taking place in the center of Europe after WW2. With the internet working all over the world, media streaming the news right from the war zone, it was important to discover what kind of reaction are we seeing from the public all over the world. 
 We found out that english speaking people ( in particular in the US) are the most engaged in this conversation. Because of the extraordinary bravery of Ukrainian people we see a lot of positive comments on twitter about the war, but as expected during the war - the leading is a negative sentiment in the conversation. 
 

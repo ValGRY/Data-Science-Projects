@@ -2,7 +2,7 @@
 
 # The Red Wine
 
-The main goal is to see how regression analysis looks in Python and jupyter!
+The main goal of the project is to use regression analysis in Python and Jupyter Notebook.
 
 ***I will use exploratory data analysis (EDA) and regression to predict alcohol levels in wine with a model that's as accurate as possible***.
 

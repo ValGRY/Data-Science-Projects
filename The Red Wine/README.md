@@ -1,3 +1,4 @@
+![0](https://user-images.githubusercontent.com/98930412/172071101-c6dd81b1-d196-4dfc-9f93-7bbe27c9fb43.png)
 
 # The Red Wine
 
@@ -99,10 +100,10 @@ train_test_split()
 Creating and fitting the model 3
 Evaluate the model with .summary()
 The R-Squared score shows a big improvement 87.3%
+Let's predict dependent variable y by using .predict()
 Building a scatterplot
 ![8](https://user-images.githubusercontent.com/98930412/172067643-c4b65118-3569-4137-9cc8-5c83f04dbd41.png)
-Let's predict dependent variable y by using .predict()
-I am going to measure the accuracy of a regression model by defining a function to check the RMSE (Root Mean Squared Error) (finding the average difference between predictions and actual values)
+Measuring the accuracy of a regression model by defining a function to check the RMSE (Root Mean Squared Error) (finding the average difference between predictions and actual values)
 RMSE is about 0.6 which means that I am on average, about 0.6 of a unit of fixed acidity away from the correct answer.
 
  **Making a Linear Regression model (fourth model): avoiding redundancy**

@@ -6,7 +6,7 @@ The main goal of the project is to use regression analysis in Python and Jupyter
 
 ***I will use exploratory data analysis (EDA) and regression to predict alcohol levels in wine with a model that's as accurate as possible***.
 
-I am going to use univariate analysis (one involving a single explanatory variable) as well as a *multivariate* one (involving multiple explanatory variables), and I will iterate together towards a decent model by the end of the project
+I am going to use univariate analysis (one involving a single explanatory variable) as well as multivariate one (involving multiple explanatory variables), and I will iterate together towards a decent model by the end of the project
 
 
 I am going to use the red wine dataset, wineQualityReds.csv. This dataset is available on Kaggle, [here](https://www.kaggle.com/piyushgoyal443/red-wine-dataset).

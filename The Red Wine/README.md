@@ -15,17 +15,17 @@ I am going to use the red wine dataset, wineQualityReds.csv. This dataset is ava
 **1. Sourcing and loading** 
 - Import relevant libraries
 - Load the data 
-- Exploring the data
-- Choosing a dependent variable
+- Explore the data
+- Choose a dependent variable
  
 **2. Cleaning, transforming, and visualizing**
-- Visualizing correlations
+- Visualize correlations
   
   
 **3. Modeling** 
 - Train/Test split
 - Making a Linear regression model: first model
-- Making a Linear regression model: second model: Ordinary Least Squares (OLS) 
+- Making a Linear regression model: second model: ordinary Least Squares (OLS) 
 - Making a Linear regression model: third model: multiple linear regression
 - Making a Linear regression model: fourth model: avoiding redundancy
 
@@ -36,7 +36,7 @@ I am going to use the red wine dataset, wineQualityReds.csv. This dataset is ava
 ## Sourcing and loading     
 1. Import relevant libraries      
 2. Load the data       
-3. Exploring the data        
+3. Explore the data        
 Check out its appearance (info, shape)      
 4. Choosing a dependent variable     
 **'Fixed Acidity'** looks like a good variable.     
@@ -45,12 +45,12 @@ I will check the center and spread of its value.
 Best way to do it is to make histogram of it to see the center and spread of its values.    
 ![1](https://user-images.githubusercontent.com/98930412/172061262-5b49ef36-aae3-4092-a2a6-3552b939ddc5.png)
 
-Which variables are related interestingly to that dependent variable (Fixed Acidity)?    
-Using .corr() method on wine dataset to look at all the correlations between our variables.
+Which variables are related to that dependent variable (Fixed Acidity)?    
+Using .corr() method on wine dataset to look at all the correlations between variables.
 
 ## Cleaning, Transforming, and Visualizing    
 1. Visualizing correlations    
-I have chosen 'Fixed Acidity' as dependent variable for regression analysis. I am going to plot the pairwise relationships in the dataset, to check out how our variables relate to one another by **using the .pairplot() Seaborn method.**     
+I have chosen 'Fixed Acidity' as dependent variable for regression analysis. I am going to plot the pairwise relationships in the dataset to check out how our variables relate to one another by **using the .pairplot() Seaborn method.**     
 ![1](https://user-images.githubusercontent.com/98930412/172061214-2641baae-4917-4921-add8-db07b2eda8a3.png)
 
 **Applying the .heatmap() Seaborn method.**     
@@ -65,31 +65,31 @@ I can see a positive correlation and some outliers.
 **Using the .regplot() Seaborn method**    
 ![5](https://user-images.githubusercontent.com/98930412/172062177-8e2ffb4a-1b5e-4bcd-bd0c-7dcd74ee3430.png)
 
-I can see some points that deviate from the line but the line still matches the overall shape of the data pretty good.
+I can see some points that deviate from the line, but the line still matches the overall shape of the data pretty well.
 
 ## Modeling
 
 **Train/Test Split**    
-Subsetting our data into our dependent and independent variables    
-Split the data by useing the train_test_split() sklearn function.    
+Subsetting data into dependent and independent variables.    
+Split the data by using the train_test_split() sklearn function.    
 The test size = 75% of the data, and test size = 25%.    
 
 **Making a Linear Regression model (first model)**    
-Creating linear regression model by useing linear_model.LinearRegression()    
+Creating linear regression model by using linear_model.LinearRegression()    
 Training the model on our test data.    
-Evaluating success of the model by looking at R-Squared coefficient score                  
+Evaluating success of the model by looking at R-Squared coefficient score.                  
 Score of 46.8% means that I have a lot of work to do.            
 Ploting the predictions against the actual result. Use scatter()        
 ![6](https://user-images.githubusercontent.com/98930412/172064115-75e1b3e2-9b9d-4979-91db-6334741eaa26.png)   
 
 **Making a Linear Regression model (second model): Ordinary Least Squares (OLS)**     
 Creating X and y      
-For Ordinary Least Squares Regression I nedd to reassign X the value of adding a constant to it.      
+For ordinary Least Squares Regression I need to reassign X the value of adding a constant to it.      
 train_test_split()      
 Creating and fitting the model 2     
 Evaluate the model with .summary()      
 R-Squared coefficient score is 46.9%     
-Let's predict dependent variable y by using .predict()    
+Let's predict dependent variable by using .predict()    
 Building a scatterplot                    
 ![7](https://user-images.githubusercontent.com/98930412/172064960-3009fc9f-3074-4749-8d6e-1533094f252f.png)
 

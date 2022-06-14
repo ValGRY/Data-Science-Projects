@@ -24,7 +24,7 @@ Checking dataframe
 
 **Cleaning the data**
 
-1. Choosing only the rows that we going to sue
+1. Choosing only the rows that I am going to use
 2. Reomove rows which is not London boroughs
 
 **Transforming the data**

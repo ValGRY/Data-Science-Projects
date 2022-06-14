@@ -41,8 +41,8 @@ Making a line plot of Month against Average Price of one of the boroughs,specifi
 
 **Creating 'Year' column by using lambda function**
 1. look through the `Month` column
-2. Extractin the year from each individual value in that column 
-3. Storing that corresponding year as separate column
+2. Extracting the year from each individual value in that column 
+3. Storing that corresponding year as a separate column
 4. Grouping by Borough and Year, and getting yearly average price
 5. Reseting index to get clean DF
 

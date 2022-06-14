@@ -52,8 +52,8 @@ Making a line plot of Month against Average Price of one of the boroughs,specifi
 ## Modeling
 1. Creating a function that will calculate a ratio of house prices
 2. Making empty dictionary to store new calculated ratio
-3. Creating forloop to get ratio for all the boroughs
-4. Transposing and reseting index
+3. Creating for loop to get ratio for all the boroughs
+4. Transposing and resetting index
 5. Creating nice clean DF
 
 <img src="https://user-images.githubusercontent.com/98930412/173628927-4e87caab-c391-4e58-9b2a-ef5201181b2c.PNG" width="400">

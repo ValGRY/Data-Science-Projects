@@ -48,7 +48,8 @@ Making a line plot of Month against Average Price of one of the boroughs
 3. store that corresponding year as separate column
 4. Grouping by Borough and Year, and getting yearly average price
 5. Reseting index to get clean DF
-![3](https://user-images.githubusercontent.com/98930412/173470142-6216f5da-9961-49fd-91e6-73729024129f.PNG)
+
+<img src="https://user-images.githubusercontent.com/98930412/173470142-6216f5da-9961-49fd-91e6-73729024129f.PNG" width="400">
 
 ## Modeling
 1. Creating a function that will calculate a ratio of house prices
@@ -56,7 +57,7 @@ Making a line plot of Month against Average Price of one of the boroughs
 3. Creating forloop to get ratio for all the boroughs
 4. Creating nice clean DF
 
-![4](https://user-images.githubusercontent.com/98930412/173471817-b3923331-74ea-443d-a39c-f51cb6f15572.PNG)
+<img src="https://user-images.githubusercontent.com/98930412/173471817-b3923331-74ea-443d-a39c-f51cb6f15572.PNG" width="400">
 
 **Ploting final results**
 

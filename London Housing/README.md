@@ -25,7 +25,7 @@ Checking dataframe
 **Cleaning the data**
 
 1. Choosing only the rows that I am going to use
-2. Reomove rows which is not London boroughs
+2. Remove rows which are not London boroughs
 
 **Transforming the data**
 1. Rename some columns

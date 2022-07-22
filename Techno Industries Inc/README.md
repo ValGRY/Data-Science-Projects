@@ -20,14 +20,14 @@ Which product has the highest growth potential?
 
 # Data Science Pipeline
 
-Sourcing and loading
-Cleaning, transforming, and visualizing
-Modeling
-Evaluating and concluding
+Sourcing and loading.      
+Cleaning, transforming, and visualizing.      
+Modeling.       
+Evaluating and concluding.      
 
 # Sourcing and Loading
 
-Importing Libraries
+Importing Libraries.       
 Loading data and exploring dataset.
 
 # Cleaning, transforming, and visualizing

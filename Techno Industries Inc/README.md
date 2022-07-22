@@ -126,6 +126,10 @@ Actuators and Fuse has the lowest cost of unit and the biggest net profit margin
 
 Encoding Product, State and Business Type columns.
 
+**Doping columns**
+
+Doping columns: Customer ID, Date, Zip Code, State, Month, Net Profit Margin for training and testing my models.
+
 **Correlation visualization**    
 
 <img src="https://user-images.githubusercontent.com/98930412/180496079-f5347fa1-1c9f-42bd-8469-0ba3a5454998.png" width="700">

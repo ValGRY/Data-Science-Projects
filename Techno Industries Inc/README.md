@@ -123,18 +123,20 @@ Actuators and Fuse has the lowest cost of unit and the biggest net profit margin
 # Modeling
 
 **Encoding Categories**
-** Corr plot**
+
+** Corr plot**    
+
 <img src="https://user-images.githubusercontent.com/98930412/180496079-f5347fa1-1c9f-42bd-8469-0ba3a5454998.png" width="700">
 
 ## Logistic Regression
 
-Accuracy : 0.91113
+Accuracy : 0.91113       
 
 ## Random Forest Classifier
 
-Accuracy: 1.00
-f1-score: 1.00
-Train Accuracy: 1.00
+Accuracy: 1.00           
+f1-score: 1.00                  
+Train Accuracy: 1.00              
 Test Accuracy: 1.00
 
 ## Variable Importance for Random Forest Classifier

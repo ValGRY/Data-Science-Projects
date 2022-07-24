@@ -52,7 +52,7 @@ Microcontrollers and Wiring components has the list of orders.
 
 # What number of customers in each segment that purchased this specific component?
 
-<img src="https://user-images.githubusercontent.com/98930412/180494884-2eba6b29-5f6c-44a9-8809-19d3833c2eaf.pn" width="700">
+<img src="https://user-images.githubusercontent.com/98930412/180494884-2eba6b29-5f6c-44a9-8809-19d3833c2eaf.png" width="700">
 
 As I can see the biggest number of customers purchased Light Emitting Diode (LED) from Aerospace industry.
 Be even more precise, almost all the orders for Light Emitting Diode (LED) came through Aerospace industry.
@@ -60,7 +60,7 @@ Also some of the industries has extremely low or even zero number of ordered for
 
 # What is the revenue breakdown per industry?
 
-<img src="https://user-images.githubusercontent.com/98930412/180589508-c647dcb3-2483-4e3e-888b-c5c099d4394b.png" width="700">
+<img src="https://user-images.githubusercontent.com/98930412/180627922-0188e699-b067-4c23-87dd-64169021bfc5.png" width="700">
 
 So far Aerospace have been the industry with the biggest number of orders and as I can see the Aerospace brings the most revenue than the other industries all together.
 
@@ -75,14 +75,14 @@ The biggest revenue comes from Switches
 
 Creating column 'Month' to get only month names, for seasonality plot.
 
-<img src="https://user-images.githubusercontent.com/98930412/180495250-da6ef891-6ace-4696-984b-427e5f44773c.png" width="700">
+<img src="https://user-images.githubusercontent.com/98930412/180627948-eae671c3-9908-4b2c-ad60-8082e7d9668d.png" width="700">
 
 Aerospace industry has sign of seasonality.
 
 Let's check which product Aerospace industry has seasonality.
 I am going to separate Aerospace industry from other industries.
 
-<img src="https://user-images.githubusercontent.com/98930412/180495471-ffd4ea65-b423-43af-9c94-c4280bbba77b.png" width="700">
+<img src="https://user-images.githubusercontent.com/98930412/180627960-d22cf739-0b26-4cdf-99c5-2c7c5fb09963.png" width="700">
 
 Laser diode has seasonality and Switches has some signs of seasonality.
 I can assume that there are the best seasons to do testing or launching of new developed product, and they may need new components to fix something or build something new before next testing or launching season.

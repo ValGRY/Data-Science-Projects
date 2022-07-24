@@ -120,16 +120,16 @@ Lets take a closer look at the 'Microcontrollers' this component has the biggest
 Actuators and Fuse has the lowest cost of unit and the biggest net profit margin.
 
 # Summary
-● Actuators brings the most average profitability.
-● Actuators and Fuse has the lowest cost of unit and the biggest net profit margin.
-● Microcontrollers has the smallest number of orders bring the least average profitability, only 3.26%.
-● Microcontrollers brings the smallest revenue, with the second lowest revenue form Wiring components
-● The biggest revenue comes from Switches
-● Thermostat, Wiring components and Microcontrollers has the highest cost per unit and the lowest net profit margin.
-● California, New York, Pennsylvania and Texas brings the bigest Net Profit Margin.
-● North Dakota, Delaware and South Dakota brings the lowest Net Profit Margin.
-● Microcontrollers and Wiring components has the list of orders.
-● About 50% of all the industries belongs to the Aerospace (28.09%) and Medical (22.25%) industries.
+● Actuators brings the most average profitability.           
+● Actuators and Fuse has the lowest cost of unit and the biggest net profit margin.             
+● Microcontrollers has the smallest number of orders bring the least average profitability, only 3.26%.          
+● Microcontrollers brings the smallest revenue, with the second lowest revenue form Wiring components.          
+● The biggest revenue comes from Switches.          
+● Thermostat, Wiring components and Microcontrollers has the highest cost per unit and the lowest net profit margin.             
+● California, New York, Pennsylvania and Texas brings the bigest Net Profit Margin.           
+● North Dakota, Delaware and South Dakota brings the lowest Net Profit Margin.           
+● Microcontrollers and Wiring components has the list of orders.             
+● About 50% of all the industries belongs to the Aerospace (28.09%) and Medical (22.25%) industries.            
 ● Aerospace industry has the biggest number of orders and the brings the most revenue than the other industries all together.
 
 # Recommendations

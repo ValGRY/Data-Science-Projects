@@ -60,13 +60,13 @@ Also some of the industries has extremely low or even zero number of ordered for
 
 # What is the revenue breakdown per industry?
 
-<img src="https://user-images.githubusercontent.com/98930412/180494985-222e1850-7182-4caf-a69e-f7f19536b0f3.png" width="700">
+<img src="https://user-images.githubusercontent.com/98930412/180589508-c647dcb3-2483-4e3e-888b-c5c099d4394b.png" width="700">
 
 So far Aerospace have been the industry with the biggest number of orders and as I can see the Aerospace brings the most revenue than the other industries all together.
 
 # What is the revenue breakdown per product?
 
-<img src="https://user-images.githubusercontent.com/98930412/180495110-044a1342-720b-42de-86aa-5970b8ea0d77.png" width="700">
+<img src="https://user-images.githubusercontent.com/98930412/180589494-f1d4810c-6b9b-47e2-8054-5c24f0ffb6a2.png" width="700">
 
 Microcontrollers brings the smallest revenue, with the second lowest revenue form Wiring components
 The biggest revenue comes from Switches
@@ -99,15 +99,14 @@ The Medical industry has the biggest percentage of average net profit margin, wi
 
 # Which products are driving the highest and the lowest profit?
 
-<img src="https://user-images.githubusercontent.com/98930412/180495703-e22462cc-0f0d-41cf-83a9-fec478aa646e.png" width="700">
+<img src="https://user-images.githubusercontent.com/98930412/180589453-ac031087-fcfb-4afa-9435-bc6e61c43ad2.png" width="700">
 
 As we already know Actuators were second biggest component in terms of orders and it brings the most average profitability.
 On the other side Microcontrollers that has the smallest number of orders bring the least average profitability, only 3.26%.
 
 # What is the geographic distribution of each segment?
 
-
-<img src="https://user-images.githubusercontent.com/98930412/180495804-f5923e69-ea49-4d59-8161-dee75506a93a.png" width="700">
+<img src="https://user-images.githubusercontent.com/98930412/180589419-aaf2c3f5-aba6-480f-b1a7-bbe23ba8413f.png" width="700">
 
 As we can see California, New York, Pennsylvania and Texas brings the bigest Net Profit Margin. On the other end North Dakota, Delaware and South Dakota brings the list of Net Profit Margin.
 
@@ -119,39 +118,6 @@ As we can see 'Thermostat', 'Wiring components' and 'Microcontrollers' has the h
 Lets take a closer look at the 'Microcontrollers' this component has the biggest cost of production and the lowest net profit margin among all the components, only 3.26% as we know from previous plot.
 
 Actuators and Fuse has the lowest cost of unit and the biggest net profit margin.
-
-# Modeling
-
-**Encoding Categories**
-
-Encoding Product, State and Business Type columns.
-
-**Correlation visualization**    
-
-<img src="https://user-images.githubusercontent.com/98930412/180496079-f5347fa1-1c9f-42bd-8469-0ba3a5454998.png" width="700">
-
-**Doping columns**
-
-Doping columns: Customer ID, Date, Zip Code, State, Month, Net Profit Margin for training and testing my models.
-
-## Logistic Regression
-
-Accuracy : 0.91113       
-
-## Random Forest Classifier
-
-Accuracy: 1.00           
-f1-score: 1.00                  
-Train Accuracy: 1.00              
-Test Accuracy: 1.00
-
-## Variable Importance for Random Forest Classifier
-
-![93](https://user-images.githubusercontent.com/98930412/180496460-8a92d0e8-d42c-41b3-904e-499e8a8507b2.png)
-
-## Modelind summery:
-Logistic Regression with some hyperparameter tuning have a good results but Random Forest Classifier with hyperparameter tuning gave me probably best result possible.
-
 
 # Summary
 ● Actuators brings the most average profitability.
